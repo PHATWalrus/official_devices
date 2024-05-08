@@ -1,0 +1,8 @@
+Changelog:
+================
+• Merged May 2024 Security Patches
+• Fixed youtube/insta/fb or any other platform videos/reels stuck/lag issues
+• Fixed Carrier Video Calling
+• Fixed reported network issues related to ril.
+• Add IOS Depth wallpaper
+• Add option to disable sim
