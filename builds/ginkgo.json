@@ -1,15 +1,15 @@
 {
-   "datetime": 1713251754,
+   "datetime": 1715152754,
    "donate_url": "https://paypal.me/tejas101k",
    "error": false,
-   "filehash": "bdd7117c4098a6d8375bd88fc05e740d",
-   "filename": "evolution_ginkgo-ota-ap1a.240405.002-04160716-OFFICIAL.zip",
+   "filehash": "ee1aa977fdf34de9c18295015e19c408",
+   "filename": "evolution_ginkgo-ota-ap1a.240505.005-05080722-OFFICIAL.zip",
    "forum_url": "",
-   "id": "c55964063425405377117b031970a18d7a26c12a098958592e0024a87ca5f0da",
+   "id": "a2258af69d042e9018b00a4311b6269c422e97415d77aa05f5f57c8dea54fca6",
    "maintainer": "Tejas Singh",
    "maintainer_url": "https://github.com/tejas101k",
-   "size": 1832152626,
+   "size": 1850014414,
    "telegram_username": "tejas101k",
-   "url": "https://sourceforge.net/projects/evolution-x/files/ginkgo/14/evolution_ginkgo-ota-ap1a.240405.002-04160716-OFFICIAL.zip/download/",
+   "url": "https://sourceforge.net/projects/evolution-x/files/ginkgo/14/evolution_ginkgo-ota-ap1a.240505.005-05080722-OFFICIAL.zip/download/",
    "version": "Fourteen"
 }

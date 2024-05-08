@@ -1,0 +1,7 @@
+Changelog:
+================
+• Merged May 2024 Security Patches
+• Fixed Carrier Video Calling
+• Fixed FPS info.
+• Add IOS Depth wallpaper
+• Improve Bt Audio
