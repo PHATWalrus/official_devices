@@ -1,0 +1,8 @@
+Chnagelogs
+----------
+----------
+- Carrier video call fixed
+- Drop 90Hz, caused display flicker
+- Fixed some camera lags & crashed
+- Add some smoothness in rom
+- Some underhood changes
