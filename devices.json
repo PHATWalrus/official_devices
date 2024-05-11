@@ -375,21 +375,6 @@
       ]
    },
    {
-      "brand": "Realme",
-      "codename": "lunaa",
-      "name": "GT Master Edition",
-      "supported_versions": [
-         {
-            "device_group": "EvolutionXLunaa",
-            "maintainer_name": "Sid",
-            "maintainer_url": "https://forum.xda-developers.com/m/bunny155.12602171/",
-            "version_code": "fourteen",
-            "version_name": "Fourteen",
-            "xda_thread": "https://xdaforums.com/t/rom-14-0_r14-lunaa-official-evolution-x-13-11-23.4641116/"
-         }
-      ]
-   },
-   {
       "brand": "Xiaomi",
       "codename": "tissot",
       "name": "Mi A1",
@@ -696,7 +681,7 @@
       "supported_versions": [
          {
             "device_group": "EvolutionXSweet",
-            "maintainer_name": "Zaid Khan (@zaidkhan0997)",
+            "maintainer_name": "Zaid Khan (zaidkhan0997)",
             "maintainer_url": "https://xdaforums.com/m/zaidkhan0997.9099781/",
             "version_code": "Fourteen",
             "version_name": "Fourteen",
@@ -711,26 +696,11 @@
       "supported_versions": [
          {
             "device_group": "EvolutionXLisa",
-            "maintainer_name": "Zaid Khan (@zaidkhan0997)",
+            "maintainer_name": "Zaid Khan (zaidkhan0997)",
             "maintainer_url": "https://xdaforums.com/m/zaidkhan0997.9099781/",
             "version_code": "Fourteen",
             "version_name": "Fourteen",
             "xda_thread": "https://xdaforums.com/t/rom-14-lisa-official-evolution-x-01-05-24.4616047/"
-         }
-      ]
-   },
-   {
-      "brand": "Xiaomi",
-      "codename": "rosemary",
-      "name": "Redmi Note 10S/Redmi Note 11SE India/POCO M5s",
-      "supported_versions": [
-         {
-            "device_group": "EvolutionX_Rosemary",
-            "maintainer_name": "Stella Bloom (stelbl/windowz414)",
-            "maintainer_url": "https://forum.xda-developers.com/m/windowz414.9468504/",
-            "version_code": "fourteen",
-            "version_name": "Fourteen",
-            "xda_thread": "https://xdaforums.com/t/rom-14-0_r25-official-evolution-x-8-3-03-13-2024.4660704/"
          }
       ]
    },
