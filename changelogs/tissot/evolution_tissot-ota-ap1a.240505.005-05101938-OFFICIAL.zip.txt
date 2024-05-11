@@ -1,0 +1,30 @@
+This is Android 14 with May 2024 QPR2 (r35) security patches
+
+Notes:
+==============================
+- Make sure to be on last firmware.
+- Clean flash is recommended but not required.
+- Play Integrity passes by default (As of 05/11/2024).
+- Credits to Lafactorial.
+
+Device changes:
+==============================
+None
+
+Notable ROM changes:
+==============================
+Evolver: Drop Netflix and Snapchat spoof toggles
+Evolver: Introduce Depth Wallpaper feature
+Fix "Manage App & Content access" for profiles
+Island: Fix some album-art not showing
+Island: Use status bar height as top margin
+KeyStore: Add getApplicationContext method required for Asus Devices
+Merge May 2024 security patches
+PixelPropsUtils: Update fingerprints to May 2024 release
+Settings: Add a dev option to unlimit screenrecord filesize
+SystemUI: Add vibration when long pressing QS footer settings button
+SystemUI: Default to true for HeadsUp notifications
+SystemUI: Proper background for brightness slider
+Update translations
+libaudiohal: only call getAudioPort if it is supported
+version: Uprev to 8.6 (Isaw)
